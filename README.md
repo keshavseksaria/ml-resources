@@ -1,1 +1,1 @@
-we wamt some resources for ml
+we want some resources for ml
